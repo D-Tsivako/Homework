@@ -1,0 +1,7 @@
+Rose		30	1	15
+Dandelion		10	2	15
+Chamomile		10	3	20
+Lily		20	4	10
+Rose		30	5	10
+Tulip		25	5	5
+Tulip		25	7	5
